@@ -9,10 +9,10 @@
 
 ╔════════════════════════════════════════════════════════════════════════╗
 ║                                                                        ║
-║  ## Created by GlaceYT!                                                ║
+║  ## Created by zoaxsk155k!                                                ║
 ║  ## Feel free to utilize any portion of the code                       ║
-║  ## DISCORD :  https://discord.com/invite/xQF9f9yUEM                   ║
-║  ## YouTube : https://www.youtube.com/@GlaceYt                         ║
+║  ## DISCORD :  https://discord.com/invite/                  ║
+║  ## YouTube : https://www.youtube.com/                         ║
 ║                                                                        ║
 ╚════════════════════════════════════════════════════════════════════════╝
 
@@ -22,7 +22,7 @@
 
 const status = "AUTOMATIC";
 const botName = "🎟️ TICKET BOT";
-const Text = "GlaceYT";
+const Text = "zoaxsk155k";
 const version = "Latest@ v1.0"; 
 const startTime = Date.now();
 
