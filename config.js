@@ -22,6 +22,6 @@
 
 module.exports = {
     token: '',
-    guildId: '',
+    guildId: '1337734945606467669',
     mongodbURI: 'mongodb+srv://shiva:shiva@discordbot.opd5w.mongodb.net/?retryWrites=true&w=majority'
 };
